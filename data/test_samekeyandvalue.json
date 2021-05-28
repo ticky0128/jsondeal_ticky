@@ -1,0 +1,23 @@
+{
+  "A": [
+    {
+      "pro":"math",
+      "score": 95
+    },
+    {
+      "pro":"Chinese",
+      "score": 94
+    }
+  ],
+  "B": [
+    {
+      "pro":"math",
+      "score": 95
+    },
+    {
+      "pro":"Chinese",
+      "score": 92
+    }
+  ]
+
+}
